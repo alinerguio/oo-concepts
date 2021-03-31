@@ -2,6 +2,7 @@ import java.util.List;
 import java.util.ArrayList;
 
 public class Cozinha {
+  public String tipo;
   public int horaAbertura;
   public int horaFechamento;
   public String pratoPrincipal;
